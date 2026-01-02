@@ -134,7 +134,7 @@ person.addApp(sensor);
 person.addApp(dummy);
 
 System.out.println(person);
-// Output: Yuna has 1 sensor apps and 1 dummy apps.
+// Output: Yuna has  1 sensor apps and 1 dummy apps.
 ```
 
 ### Retrieving Dummy Apps
